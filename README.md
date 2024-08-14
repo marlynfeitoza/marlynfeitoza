@@ -9,12 +9,12 @@
 </p>
 
 ##  Stats
-
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marlynfeitoza&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marlynfeitoza&theme=transparent&show_icons=True&rank_icon=github&" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlynfeitoza&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<a href="https://github.com/marlynfeitoza/PythonRPG">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlynfeitoza&layout=compact&langs_count=4&theme=transparent" />
 </a>
 
 ## Learning languages
