@@ -10,7 +10,7 @@
 
 ##  Stats
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/marlynfeitoza?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marlynfeitoza&theme=transparent&show_icons=True&rank_icon=github&" />
 </a>
 <a href="https://github.com/marlynfeitoza/PythonRPG">
@@ -19,13 +19,13 @@
 
 ## Learning languages
 <div>
-  <a href="https://www.python.org/" title="Python">
+  <a href="https://www.python.org/" title="Python" target=”_blank”>
   <img align="center" alt="Marlyn-Python" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
   </a>
-  <a href="https://go.dev/" title="Go">
+  <a href="https://go.dev/" title="Go" target=”_blank”>
   <img align="center" alt="Marlyn-Go" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/go.svg">
   </a>
-  <a href="https://manjaro.org/" title="Manjaro">
+  <a href="https://manjaro.org/" title="Manjaro" target=”_blank”>
   <img align="center" alt="Marlyn-Linux" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/manjaro.svg">
   </a>
 </div>
