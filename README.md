@@ -20,13 +20,13 @@
 ## Learning languages
 <div>
   <a href="https://www.python.org/" title="Python" target=”_blank”>
-  <img align="center" alt="Marlyn-Python" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
+  <img align="center" alt="Marlyn-Python" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" target=”_blank>
   </a>
   <a href="https://go.dev/" title="Go" target=”_blank”>
-  <img align="center" alt="Marlyn-Go" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/go.svg">
+  <img align="center" alt="Marlyn-Go" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/go.svg" target=”_blank>
   </a>
   <a href="https://manjaro.org/" title="Manjaro" target=”_blank”>
-  <img align="center" alt="Marlyn-Linux" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/manjaro.svg">
+  <img align="center" alt="Marlyn-Linux" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/manjaro.svg" target=”_blank>
   </a>
 </div>
 
